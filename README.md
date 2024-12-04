@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 04/12/2024
+## Register Number: 24000985
+## Name: VISWAJITH LALITHRAM R.V
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description

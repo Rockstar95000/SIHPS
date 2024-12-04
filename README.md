@@ -11,15 +11,103 @@ Government of Gujarat
 
 ## Idea
 
+1. Alumni Registration: Create a simple process where alumni can sign up, update their profiles, and connect with the institute using both a website and a mobile app.
+
+
+2. Donation Portal: Add a secure feature to let alumni contribute funds for college development or projects easily.
+
+
+3. Networking Hub: Provide a space where alumni can connect with each other based on shared interests, professions, or locations.
+
+
+4. Job Portal: Help alumni by offering job opportunities, posting job openings, and connecting with potential employers.
+
+
+5. Success Story Sharing: Create a feature to highlight alumni achievements and success stories to inspire others.
+
+
+6. Event Management: Enable easy planning, announcements, and registrations for alumni events, reunions, or workshops.
+
+
+7. Feedback and Surveys: Allow alumni to share feedback and suggestions for improving the college and the platform.
+
+
+8. Knowledge Sharing: Offer resources for career guidance, mentorship, and learning opportunities for alumni.
+
+
+9. Community Building: Create interactive features to help alumni engage with the institution and current students.
+
+
+10. Recognition: Celebrate alumni success by highlighting their contributions and achievements on the platform.
+
 
 ## Proposed Solution / Architecture Diagram
+
+
+![ARCHITECTURAL DIAGRAM](https://github.com/user-attachments/assets/65b096d1-52ff-4d7c-9918-439a9ad559cb)
+
 
 
 ## Use Cases
 
 
+![USE CASE](https://github.com/user-attachments/assets/d0b8cba7-3aa2-4f18-9b01-28b1b2152845)
+
+
+
 ## Technology Stack
+
+BACKEND :
+--------
+. JSON Web Tokens
+
+DATABASE :
+--------
+. PstgreSQL
+. MongoDB
+
+APIs:
+-----
+. RESTful APIs
+. GraphQL
+
+CLOUD SERVICES :
+--------------
+. AWS
+. Google Cloud storage
+. Cloudfare
 
 
 ## Dependencies
 
+Alumni Registration & Profile Management
+Time: 10–15 days
+Cost: ₹1,20,000–₹1,50,000
+
+Donation Portal
+Time: 8–12 days
+Cost: ₹1,00,000–₹1,20,000
+
+Networking Hub
+Time: 12–18 days
+Cost: ₹1,50,000–₹2,00,000
+
+Job Portal
+Time: 15–20 days
+Cost: ₹2,00,000–₹2,50,000
+
+Event Management
+Time: 10–15 days
+Cost: ₹1,20,000–₹1,50,000
+
+Success Story Tracking
+Time: 5–7 days
+Cost: ₹60,000–₹90,000
+
+Feedback and Surveys
+Time: 7–10 days
+Cost: ₹90,000–₹1,20,000
+
+Admin Panel
+Time: 15–20 days
+Cost: ₹2,00,000–₹2,50,000
